@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "azure-rest-api-specs",
   "devDependencies": {
     "@azure-tools/openai-typespec": "1.9.0",
